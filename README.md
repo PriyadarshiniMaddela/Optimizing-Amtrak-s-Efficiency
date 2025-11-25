@@ -10,7 +10,7 @@ I’m excited to share a recent milestone from my journey as a Business Intellig
 
 **📊 Tools Used:** Tableau | Excel | SQL | Data Modeling | Predictive Analytics
 
-📁** Dataset**:Amtrak station-level ridership, route performance, and ticketing trends.
+📁**Dataset**: Amtrak station-level ridership, route performance, and ticketing trends.
 
 This project helped me deepen my skills in data analysis, Business Intelligence tools, data visualization, and practical implementation of analytics to solve real-world transportation challenges.
 
